@@ -1,0 +1,26 @@
+{
+    "window.zoomLevel": 2,
+    
+    "workbench.colorTheme": "MyTheme",
+    
+    "workbench.colorCustomizations": {
+	    "editor.lineHighlightBackground": "#808080",
+	    "editorLineNumber.foreground": "#000000",
+	    "editorLineNumber.activeForeground": "#FFFFFF"
+    },
+    
+    "indentRainbow.colors": [
+	"rgba(f,f,f,0.1)",
+	"rgba(f,f,f,0.2)",
+	"rgba(f,f,f,0.3)",
+	"rgba(f,f,f,0.4)",
+	"rgba(f,f,f,0.5)",
+	"rgba(f,f,f,0.6)",
+	"rgba(f,f,f,0.7)",
+	"rgba(f,f,f,0.8)",
+	"rgba(f,f,f,0.9)",
+	"rgba(f,f,f,1.0)"
+	]
+}
+
+

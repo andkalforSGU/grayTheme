@@ -1,0 +1,17 @@
+{        
+    "name": "My theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "MAX",
+    "contributes": {
+        "themes": [
+            {
+                "label": "MyTheme",
+                "uiTheme": "vs",
+                "path": "./themes/MineGray.tmTheme"
+            }
+        ]
+    }
+}
